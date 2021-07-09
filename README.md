@@ -15,7 +15,7 @@ https://www.resume.id/works/abf7b4eaf45b0ec0
 
 # Author
 
-* 作成者:Keito Nakamori&tanako
+* 作成者:Keito Nakamori&Kousuke Tanaka
 
 # License
 
