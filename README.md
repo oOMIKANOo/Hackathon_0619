@@ -19,4 +19,4 @@ https://www.resume.id/works/abf7b4eaf45b0ec0
 
 # License
 
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+"ハッカソンダービー" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
